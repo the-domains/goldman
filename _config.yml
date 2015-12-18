@@ -1,4 +1,19 @@
-analytics: {}
+name: Goldman
+favicon: null
+layout_spectrum: 0.422297
+typography_spectrum: 0.8703
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#D8D0B8'
@@ -8,11 +23,6 @@ color:
     - '#D89890'
   brandStrength: 0.673933605896309
   lightness: 0.5712536531500518
-  rhythmicContrast: 0.5102125192061067
   saturation: 0.5164753457065672
-cta: {}
-layout_spectrum: 0.422297
-name: Goldman
-opengraph: {}
+  rhythmicContrast: 0.5102125192061067
 purpose: []
-typography_spectrum: 0.13264355063438416
